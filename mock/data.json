@@ -1,0 +1,29 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audio": "../source/song_1.mp3",
+        "song": "丑八怪",
+        "album": "意外",
+        "singer": "薛之谦",
+        "duration": 248,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audio": "../source/song_2.mp3",
+        "song": "春末南方的城市",
+        "album": "梵高先生",
+        "singer": "李志",
+        "duration": 246,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audio": "../source/song_3.mp3",
+        "song": "2 soon",
+        "album": "Not Thinking Bout 2morrow",
+        "singer": "so young",
+        "duration": 198,
+        "isLike": false
+    }
+]
